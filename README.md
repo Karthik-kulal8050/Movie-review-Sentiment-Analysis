@@ -8,8 +8,7 @@ The project includes custom text preprocessing, tokenization, padding, sequence 
 
 ## Live Demo
 
-[Streamlit App](YOUR_STREAMLIT_URL)
-
+[Streamlit App]https://movie-review-sentiment-analysis-kk2shyakkonfqqeyj9ptxf.streamlit.app/
 ---
 
 ## Project Overview
